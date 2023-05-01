@@ -5,7 +5,9 @@ My name is Jerico, I love coding
 - ⚡ Fun fact: I usually improve my algorithm and coding skill at codewars and hackerrank
 
 certificate:
+<html>
 <iframe src="https://www.hackerrank.com/certificates/iframe/6dac77093682" height="500px" width="1000px"></iframe>
+</html>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
