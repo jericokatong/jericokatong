@@ -4,7 +4,7 @@ My name is Jerico, I love coding
 - 🌱 I’m currently learning Express js
 - ⚡ Fun fact: I usually improve my algorithm and coding skill at codewars and hackerrank
 
-closer with me through https://jericokatong.github.io/portfolio/
+Let's explore, discover, and get closer to me at https://jericokatong.github.io/portfolio/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
