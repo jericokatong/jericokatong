@@ -1,7 +1,7 @@
 ### Hello World!!! 👋
 
 My name is Jerico, I love coding
-- 🌱 I’m currently learning Express js
+- 🌱 I’m currently learning Backend Development with node js and framework express.js
 - ⚡ Fun fact: I usually improve my algorithm and coding skill at codewars and hackerrank
 
 Let's explore, discover, and get closer to me at https://jericokatong.github.io/portfolio/
