@@ -1,6 +1,10 @@
 ### Hello World!!! 👋
 
-My name is Jerico, I love coding
+My name is Jerico and I love coding.
+
+👨‍💻 Full Stack Developer <br />
+💼 Open To Job Opportunities <br />
+🌎 https://jericokatong.github.io/portfolio
 
 ⚡ Fun fact: I usually improve my algorithm and coding skill at codewars and hackerrank
 
